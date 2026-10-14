@@ -1,5 +1,5 @@
 # ✳ REKLIFY LABS
-### Where Ideas Become Products - Software Agency
+### Where Ideas Become Products
 
 **We turn ambitious ideas into useful digital experiences.**
 
@@ -48,18 +48,12 @@ Practical automation that reduces repetitive work and helps businesses respond f
 
 ---
 
-## 🚀 Selected Projects
-
-We believe the best way to demonstrate our capabilities is through working products and practical experiments.
-
 ### ✳ Reklify Labs Website
 Our agency website introduces our studio, capabilities, and approach to building digital products.
 
 **Focus:** Brand identity · Web design · Digital presence
 
 🔗 [Visit Website](https://reklifylabs.com/)
-
-> More projects and technical experiments will be added as they are ready to showcase.
 
 ---
 
